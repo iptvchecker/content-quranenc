@@ -1,0 +1,312 @@
+{
+  "source": "QuranEnc.com",
+  "licenseURL": "https://quranenc.com/en/home/api",
+  "artifacts": [
+    {
+      "resource": "turkish_rwwad",
+      "publisherMetadata": {
+        "key": "turkish_rwwad",
+        "direction": "ltr",
+        "language_iso_code": "tr",
+        "version": "1.0.4",
+        "last_update": 1759071052,
+        "title": "Turkish Translation - Rowwad Translation Center",
+        "description": "Translated by the team of the Rowwad Translation Center, in cooperation with the Rabwah Dawah Association, the Islamic Content Service Association in Languages, and the IslamHouse.com website.",
+        "file": "turkish_rwwad",
+        "database_url": "https://quranenc.com/downloads/sqlite/turkish_rwwad.zip",
+        "database_uncompressed_url": "https://quranenc.com/downloads/sqlite/turkish_rwwad.sqlite",
+        "pdf_url": null,
+        "pdf_size": null,
+        "pdf_cover": null,
+        "pdf_pure_url": "https://quranenc.com/downloads/pdf/turkish_rwwad.pure.pdf",
+        "pdf_pure_size": 18870190,
+        "pdf_pure_cover": "https://quranenc.com/downloads/pdf_covers/turkish_rwwad.pure.png",
+        "pdf_mobile_url": "https://quranenc.com/downloads/pdf/turkish_rwwad.mobile.pdf",
+        "pdf_mobile_size": 8546113,
+        "pdf_mobile_cover": "https://quranenc.com/downloads/pdf_covers/turkish_rwwad.mobile.png",
+        "epub_url": "https://quranenc.com/downloads/epub/turkish_rwwad.epub",
+        "epub_size": 1441978
+      },
+      "publisherLastUpdateISO": "2025-09-28T14:50:52+00:00",
+      "httpValidators": {
+        "Last-Modified": "Thu, 26 Mar 2000 17:35:45 GMT",
+        "ETag": "\"68d94b5a-6d4ec\""
+      },
+      "archiveMemberModificationTime": [
+        2025,
+        9,
+        28,
+        17,
+        50,
+        56
+      ],
+      "retrievedAt": "2026-10-08T18:37:25.784977+00:00",
+      "sourceURL": "https://quranenc.com/downloads/sqlite/turkish_rwwad.zip",
+      "file": "turkish_rwwad-1.0.4-2026-10-08.zip",
+      "bytes": 447724,
+      "sha256": "0f6a64a83e01497c77fe72892af15353b85d97af6c4aa9550db2cc69e9690f2e",
+      "contentModified": false,
+      "validation": {
+        "zipCRC": "passed",
+        "sqliteIntegrity": "ok",
+        "rows": 6236,
+        "surahs": 114
+      }
+    },
+    {
+      "resource": "turkish_shaban",
+      "publisherMetadata": {
+        "key": "turkish_shaban",
+        "direction": "ltr",
+        "language_iso_code": "tr",
+        "version": "1.1.0",
+        "last_update": 1577307600,
+        "title": "Turkish Translation - Shaaban British",
+        "description": "Translated by Shaaban British, developed under the supervision of Rowad Translation Center. The original translation is available for expressing opinion, evaluation, and continuous development.",
+        "file": "turkish_shaban",
+        "database_url": "https://quranenc.com/downloads/sqlite/turkish_shaban.zip",
+        "database_uncompressed_url": "https://quranenc.com/downloads/sqlite/turkish_shaban.sqlite",
+        "pdf_url": null,
+        "pdf_size": null,
+        "pdf_cover": null,
+        "pdf_pure_url": null,
+        "pdf_pure_size": null,
+        "pdf_pure_cover": null,
+        "pdf_mobile_url": null,
+        "pdf_mobile_size": null,
+        "pdf_mobile_cover": null,
+        "epub_url": null,
+        "epub_size": null
+      },
+      "publisherLastUpdateISO": "2019-12-25T21:00:00+00:00",
+      "httpValidators": {
+        "Last-Modified": "Thu, 26 Mar 2000 17:35:45 GMT",
+        "ETag": "\"67e2bdda-675c2\""
+      },
+      "archiveMemberModificationTime": [
+        2025,
+        3,
+        25,
+        17,
+        26,
+        38
+      ],
+      "retrievedAt": "2026-10-08T18:37:26.596783+00:00",
+      "sourceURL": "https://quranenc.com/downloads/sqlite/turkish_shaban.zip",
+      "file": "turkish_shaban-1.1.0-2026-10-08.zip",
+      "bytes": 423362,
+      "sha256": "5b8dda3bf7bdfc85a4d2cf391cf6d873a8dcb2052d8e1aaa475218d159c8bceb",
+      "contentModified": false,
+      "validation": {
+        "zipCRC": "passed",
+        "sqliteIntegrity": "ok",
+        "rows": 6236,
+        "surahs": 114
+      }
+    },
+    {
+      "resource": "turkish_shahin",
+      "publisherMetadata": {
+        "key": "turkish_shahin",
+        "direction": "ltr",
+        "language_iso_code": "tr",
+        "version": "1.0.0",
+        "last_update": 1495486800,
+        "title": "Turkish Translation - Dr. Ali Ozek and others",
+        "description": "Translated by Ali Ozek and others, developed under the supervision of Rowad Translation Center. The original translation is available for expressing opinion, evaluation, and continuous development.",
+        "file": "turkish_shahin",
+        "database_url": "https://quranenc.com/downloads/sqlite/turkish_shahin.zip",
+        "database_uncompressed_url": "https://quranenc.com/downloads/sqlite/turkish_shahin.sqlite",
+        "pdf_url": null,
+        "pdf_size": null,
+        "pdf_cover": null,
+        "pdf_pure_url": null,
+        "pdf_pure_size": null,
+        "pdf_pure_cover": null,
+        "pdf_mobile_url": null,
+        "pdf_mobile_size": null,
+        "pdf_mobile_cover": null,
+        "epub_url": null,
+        "epub_size": null
+      },
+      "publisherLastUpdateISO": "2017-05-22T21:00:00+00:00",
+      "httpValidators": {
+        "Last-Modified": "Thu, 26 Mar 2000 17:35:45 GMT",
+        "ETag": "\"67e2bde3-720c1\""
+      },
+      "archiveMemberModificationTime": [
+        2025,
+        3,
+        25,
+        17,
+        26,
+        38
+      ],
+      "retrievedAt": "2026-10-08T18:37:28.181966+00:00",
+      "sourceURL": "https://quranenc.com/downloads/sqlite/turkish_shahin.zip",
+      "file": "turkish_shahin-1.0.0-2026-10-08.zip",
+      "bytes": 467137,
+      "sha256": "c658b45ef1582284f9b551d8fd6df57a5d6ae8c2ee5e69e0f8cc06918163e830",
+      "contentModified": false,
+      "validation": {
+        "zipCRC": "passed",
+        "sqliteIntegrity": "ok",
+        "rows": 6236,
+        "surahs": 114
+      }
+    },
+    {
+      "resource": "french_rashid",
+      "publisherMetadata": {
+        "key": "french_rashid",
+        "direction": "ltr",
+        "language_iso_code": "fr",
+        "version": "1.0.3",
+        "last_update": 1782043143,
+        "title": "French Translation - Rachid Maach",
+        "description": "Translated by Rashid Ma’ash",
+        "file": "french_rashid",
+        "database_url": "https://quranenc.com/downloads/sqlite/french_rashid.zip",
+        "database_uncompressed_url": "https://quranenc.com/downloads/sqlite/french_rashid.sqlite",
+        "pdf_url": "https://quranenc.com/downloads/pdf/french_rashid.pdf",
+        "pdf_size": 17991055,
+        "pdf_cover": "https://quranenc.com/downloads/pdf_covers/french_rashid.png",
+        "pdf_pure_url": "https://quranenc.com/downloads/pdf/french_rashid.pure.pdf",
+        "pdf_pure_size": 9323774,
+        "pdf_pure_cover": "https://quranenc.com/downloads/pdf_covers/french_rashid.pure.png",
+        "pdf_mobile_url": "https://quranenc.com/downloads/pdf/french_rashid.mobile.pdf",
+        "pdf_mobile_size": 8288227,
+        "pdf_mobile_cover": "https://quranenc.com/downloads/pdf_covers/french_rashid.mobile.png",
+        "epub_url": "https://quranenc.com/downloads/epub/french_rashid.epub",
+        "epub_size": 1779216
+      },
+      "publisherLastUpdateISO": "2026-06-21T11:59:03+00:00",
+      "httpValidators": {
+        "Last-Modified": "Thu, 26 Mar 2000 17:35:45 GMT",
+        "ETag": "\"6a37d20e-8b5c0\""
+      },
+      "archiveMemberModificationTime": [
+        2026,
+        6,
+        21,
+        14,
+        59,
+        6
+      ],
+      "retrievedAt": "2026-10-08T18:37:28.421801+00:00",
+      "sourceURL": "https://quranenc.com/downloads/sqlite/french_rashid.zip",
+      "file": "french_rashid-1.0.3-2026-10-08.zip",
+      "bytes": 570816,
+      "sha256": "1cd52d4d8df86c32ab9b8f018e40211b4c9c986ef521fefcee98b1c4c09094e1",
+      "contentModified": false,
+      "validation": {
+        "zipCRC": "passed",
+        "sqliteIntegrity": "ok",
+        "rows": 6236,
+        "surahs": 114
+      }
+    },
+    {
+      "resource": "french_montada",
+      "publisherMetadata": {
+        "key": "french_montada",
+        "direction": "ltr",
+        "language_iso_code": "fr",
+        "version": "1.0.0",
+        "last_update": 1750745766,
+        "title": "French translation - Noor International Center",
+        "description": "Translated by Dr. Nabil Rudwan - issued by Noor International Center",
+        "file": "french_montada",
+        "database_url": "https://quranenc.com/downloads/sqlite/french_montada.zip",
+        "database_uncompressed_url": "https://quranenc.com/downloads/sqlite/french_montada.sqlite",
+        "pdf_url": null,
+        "pdf_size": null,
+        "pdf_cover": null,
+        "pdf_pure_url": null,
+        "pdf_pure_size": null,
+        "pdf_pure_cover": null,
+        "pdf_mobile_url": null,
+        "pdf_mobile_size": null,
+        "pdf_mobile_cover": null,
+        "epub_url": null,
+        "epub_size": null
+      },
+      "publisherLastUpdateISO": "2025-06-24T06:16:06+00:00",
+      "httpValidators": {
+        "Last-Modified": "Thu, 26 Mar 2000 17:35:45 GMT",
+        "ETag": "\"67e2bd6c-85459\""
+      },
+      "archiveMemberModificationTime": [
+        2025,
+        3,
+        25,
+        17,
+        26,
+        38
+      ],
+      "retrievedAt": "2026-10-08T18:37:28.551083+00:00",
+      "sourceURL": "https://quranenc.com/downloads/sqlite/french_montada.zip",
+      "file": "french_montada-1.0.0-2026-10-08.zip",
+      "bytes": 545881,
+      "sha256": "dbc7e3b0bc99d2c1945ad2b6b1ed035fb2d2cde38ae9e754836997b918eb3e65",
+      "contentModified": false,
+      "validation": {
+        "zipCRC": "passed",
+        "sqliteIntegrity": "ok",
+        "rows": 6236,
+        "surahs": 114
+      }
+    },
+    {
+      "resource": "urdu_junagarhi",
+      "publisherMetadata": {
+        "key": "urdu_junagarhi",
+        "direction": "rtl",
+        "language_iso_code": "ur",
+        "version": "1.1.3",
+        "last_update": 1755085049,
+        "title": "Urdu Translation - Muhammad Junagarhi",
+        "description": "Translated by Muhammad Ibrahim Junagarhi, developed under the supervision of the Rowwad Translation Center. The original translation is available for the purpose of expressing opinion, evaluation, and continuous development.",
+        "file": "urdu_junagarhi",
+        "database_url": "https://quranenc.com/downloads/sqlite/urdu_junagarhi.zip",
+        "database_uncompressed_url": "https://quranenc.com/downloads/sqlite/urdu_junagarhi.sqlite",
+        "pdf_url": null,
+        "pdf_size": null,
+        "pdf_cover": null,
+        "pdf_pure_url": null,
+        "pdf_pure_size": null,
+        "pdf_pure_cover": null,
+        "pdf_mobile_url": null,
+        "pdf_mobile_size": null,
+        "pdf_mobile_cover": null,
+        "epub_url": null,
+        "epub_size": null
+      },
+      "publisherLastUpdateISO": "2025-08-13T11:37:29+00:00",
+      "httpValidators": {
+        "Last-Modified": "Thu, 26 Mar 2000 17:35:45 GMT",
+        "ETag": "\"68b43114-202ef3\""
+      },
+      "archiveMemberModificationTime": [
+        2025,
+        8,
+        31,
+        14,
+        24,
+        8
+      ],
+      "retrievedAt": "2026-10-08T18:37:29.509377+00:00",
+      "sourceURL": "https://quranenc.com/downloads/sqlite/urdu_junagarhi.zip",
+      "file": "urdu_junagarhi-1.1.3-2026-10-08.zip",
+      "bytes": 2109171,
+      "sha256": "98dac1dddfc403956c5eab907722cac7360de2c1e6046ea53cf0806dd6a118e7",
+      "contentModified": false,
+      "validation": {
+        "zipCRC": "passed",
+        "sqliteIntegrity": "ok",
+        "rows": 6236,
+        "surahs": 114
+      }
+    }
+  ]
+}
