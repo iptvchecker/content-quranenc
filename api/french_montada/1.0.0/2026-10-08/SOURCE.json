@@ -1,0 +1,716 @@
+{
+  "source": "QuranEnc.com",
+  "sourceURL": "https://quranenc.com",
+  "licenseURL": "https://quranenc.com/en/home/api",
+  "publisherMetadata": {
+    "key": "french_montada",
+    "direction": "ltr",
+    "language_iso_code": "fr",
+    "version": "1.0.0",
+    "last_update": 1750745766,
+    "title": "French translation - Noor International Center",
+    "description": "Translated by Dr. Nabil Rudwan - issued by Noor International Center",
+    "file": "french_montada",
+    "database_url": "https://quranenc.com/downloads/sqlite/french_montada.zip",
+    "database_uncompressed_url": "https://quranenc.com/downloads/sqlite/french_montada.sqlite",
+    "pdf_url": null,
+    "pdf_size": null,
+    "pdf_cover": null,
+    "pdf_pure_url": null,
+    "pdf_pure_size": null,
+    "pdf_pure_cover": null,
+    "pdf_mobile_url": null,
+    "pdf_mobile_size": null,
+    "pdf_mobile_cover": null,
+    "epub_url": null,
+    "epub_size": null
+  },
+  "retrieved": "2026-10-08",
+  "contentModified": false,
+  "files": [
+    {
+      "file": "001.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/1",
+      "bytes": 5549,
+      "sha256": "5269ce3ed835c3df17ae2d00afcbd4bfccfcab6bc73a88fc6d77a8510d6c7f4a"
+    },
+    {
+      "file": "002.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/2",
+      "bytes": 443710,
+      "sha256": "7de616642a79f4999dd1f478c307bc55522f18c2440e276e17c970431ea98b29"
+    },
+    {
+      "file": "003.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/3",
+      "bytes": 244959,
+      "sha256": "6844b956b92f5d4872003c6bdccfd58960b9849ed015effa9f233673eaa4437f"
+    },
+    {
+      "file": "004.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/4",
+      "bytes": 262852,
+      "sha256": "eb78c3117b613b49ccef33183d73d0e3f569bc8408fc4cb0cf498901adadd033"
+    },
+    {
+      "file": "005.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/5",
+      "bytes": 195566,
+      "sha256": "d1ff52282925ea7a2381e2a3eaf4e36dba8bdc5f67330e86a03eaaf1f6e123a5"
+    },
+    {
+      "file": "006.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/6",
+      "bytes": 211383,
+      "sha256": "8d7adeb782d30fb52c8212f8d130fa6fe226f7ba084231ca6d336f87f92fc7ca"
+    },
+    {
+      "file": "007.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/7",
+      "bytes": 236160,
+      "sha256": "4c769983360ba6a8cd97b736e6273422543a3e83f53e0c5693ba661f87660e56"
+    },
+    {
+      "file": "008.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/8",
+      "bytes": 89072,
+      "sha256": "55826b24d9ab06ff514ca619234a8a68c071f439b8963a54a93a382aedbee8c0"
+    },
+    {
+      "file": "009.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/9",
+      "bytes": 177546,
+      "sha256": "31474b6f9769ec6868fa4da9e1b381d8c9904e153608c861b58f931b8db12b8e"
+    },
+    {
+      "file": "010.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/10",
+      "bytes": 127793,
+      "sha256": "c58cd0e0c93da29aa6c513776c53ef8c10831826e88a5a00d9ed0023fb7cbf60"
+    },
+    {
+      "file": "011.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/11",
+      "bytes": 131131,
+      "sha256": "56d9820df2e6a640576cd042576127b000f8417c8873722a74fc9e47006938d3"
+    },
+    {
+      "file": "012.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/12",
+      "bytes": 123917,
+      "sha256": "59ead0c32ccc1229c57165ea6078ada79cee88273baa7929c949ac1e891b9f86"
+    },
+    {
+      "file": "013.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/13",
+      "bytes": 58995,
+      "sha256": "97d503864aa9ec10bdf8a49d19f8b72d443064237fa64540bf13323c8c409015"
+    },
+    {
+      "file": "014.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/14",
+      "bytes": 59128,
+      "sha256": "caff34efa16f3457045a04b5e151ed7e4082bcf439d83a48856305cb68f61004"
+    },
+    {
+      "file": "015.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/15",
+      "bytes": 54557,
+      "sha256": "642be55d8d6ef197136b128e2aed84c7bef410a0545642c38c116d9403bc40c0"
+    },
+    {
+      "file": "016.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/16",
+      "bytes": 131278,
+      "sha256": "c4890723ead97623d8fc1eb104603231a6fa84dab89bf063f25ca014d9c3b88d"
+    },
+    {
+      "file": "017.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/17",
+      "bytes": 111190,
+      "sha256": "9cae23deeb3b4e31007ef4537b4b66def11e6fad17e807f3bb7ff7cd0e747fc6"
+    },
+    {
+      "file": "018.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/18",
+      "bytes": 111055,
+      "sha256": "f00bcd3edf608ab93cedbeac2839ced193133e6d2a45b3031711045e9b09cf85"
+    },
+    {
+      "file": "019.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/19",
+      "bytes": 70193,
+      "sha256": "592db05e64069163b1e792734973f3306d802ab34d89ea2ba58d9f789026fbfc"
+    },
+    {
+      "file": "020.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/20",
+      "bytes": 97606,
+      "sha256": "a51a98c55caf534f5a12142db77c1181c45f3bde4a227b1437904b81b42f0e97"
+    },
+    {
+      "file": "021.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/21",
+      "bytes": 88085,
+      "sha256": "741575f9cdbc815290283f8305ae1d100affac992885f46aedd2dcb4a90e4aeb"
+    },
+    {
+      "file": "022.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/22",
+      "bytes": 86464,
+      "sha256": "24dd56e0533af495c624b03265d67b71da9c4182aaad65cda2cc101181669361"
+    },
+    {
+      "file": "023.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/23",
+      "bytes": 78273,
+      "sha256": "767cc2e6d8a420cc14fecde03b7e849af69d456afe3282649714c3b39c78c9c3"
+    },
+    {
+      "file": "024.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/24",
+      "bytes": 90579,
+      "sha256": "02fa9f6e63d717aaf2ca094b9ffd751907110dc99a153fb2dfebfb6f2c4fcb68"
+    },
+    {
+      "file": "025.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/25",
+      "bytes": 64902,
+      "sha256": "2aca2de04e6ae9de02c4898882f2933967baceb7d70eba89944e9a2af7aca539"
+    },
+    {
+      "file": "026.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/26",
+      "bytes": 105402,
+      "sha256": "78576bc334413bf05aa68285decaba3762450838dd128ad50f79bc96a9e7b405"
+    },
+    {
+      "file": "027.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/27",
+      "bytes": 81265,
+      "sha256": "611ea9d0d8f976287a4496949731128151a04c41425c04e44855f3f2dfe5fc74"
+    },
+    {
+      "file": "028.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/28",
+      "bytes": 100506,
+      "sha256": "e1bb3cd65846aae6acb5b648cc71655d21725acfa7e4d1e8be9683a41abc5798"
+    },
+    {
+      "file": "029.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/29",
+      "bytes": 70276,
+      "sha256": "3a853f63e969c01ff4229a34842aaf02ff0937a059b1f3ee39286738f7f0ac03"
+    },
+    {
+      "file": "030.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/30",
+      "bytes": 57485,
+      "sha256": "4d5917cd70acb33afceca994a37823416742c1f62f25c020c973112f346603cc"
+    },
+    {
+      "file": "031.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/31",
+      "bytes": 36373,
+      "sha256": "58272938b795546eec83f9a11c4d8155760f0b3e01a2ac13f6e021d5aaccb593"
+    },
+    {
+      "file": "032.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/32",
+      "bytes": 26876,
+      "sha256": "a38c05cdf76717c2ccd7611f671f4e44754003f2cd1d9d349c01c0e663c5af35"
+    },
+    {
+      "file": "033.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/33",
+      "bytes": 92211,
+      "sha256": "d6dd7ac7939ec3d76c597d8085ce385d884b0c7a0e1d3af19d2fef16fe6a5de8"
+    },
+    {
+      "file": "034.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/34",
+      "bytes": 60288,
+      "sha256": "fb3854e5df21244391a3eeebef4b98bce22cbba1c5a104ddb5f30b842462e50e"
+    },
+    {
+      "file": "035.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/35",
+      "bytes": 52416,
+      "sha256": "4da9e66f84763eb53ba56cddf8ca28270b5eb14e13be655f2174167803bc2a59"
+    },
+    {
+      "file": "036.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/36",
+      "bytes": 54029,
+      "sha256": "e62e09b51447ad10ebd9fca7bfc85dfc903192a8b4c58d2b70fa77c24b551791"
+    },
+    {
+      "file": "037.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/37",
+      "bytes": 75315,
+      "sha256": "6a847fc1d30e11868f59ba6a71262c4045e31e4eca4f69e8cca6c53f73768e03"
+    },
+    {
+      "file": "038.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/38",
+      "bytes": 56533,
+      "sha256": "0d6e55a10b57b46ee8e1b87e7931d2ba47def566e84bf661241716bd4a5582e0"
+    },
+    {
+      "file": "039.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/39",
+      "bytes": 81663,
+      "sha256": "f6a43fd4dde6db43515d9494b2bf67bfaf2f5a1708ec3a6982dbb2d4851e2eeb"
+    },
+    {
+      "file": "040.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/40",
+      "bytes": 84680,
+      "sha256": "7878683d923e3e56d110de4afb7b61cabf364c06cb0b5449ff593f2e658b3596"
+    },
+    {
+      "file": "041.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/41",
+      "bytes": 56043,
+      "sha256": "4beac24a608dd1370fa822889adc7419ba3f29ed40bf7b67e8c6d5e4dddce839"
+    },
+    {
+      "file": "042.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/42",
+      "bytes": 58778,
+      "sha256": "7a5f3a4c78387c12970879e2066f065c150e1fc9f1ad1d32bdef831ee2b55b23"
+    },
+    {
+      "file": "043.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/43",
+      "bytes": 63815,
+      "sha256": "2f8efe89b0cf0193c1821bf0c92dc5184edc153cea589f3faaf5686c60d5b91e"
+    },
+    {
+      "file": "044.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/44",
+      "bytes": 28795,
+      "sha256": "7348db709fc0a96914f2a36c985d80fc58111289fff4e0a74abcb332ed475949"
+    },
+    {
+      "file": "045.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/45",
+      "bytes": 35809,
+      "sha256": "417cb877d7055b6dd1460bd661a8ce71249fe1e1a771c225762729013a8d6964"
+    },
+    {
+      "file": "046.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/46",
+      "bytes": 44411,
+      "sha256": "696dfaf74af9cffff5ff695abf7d16cb2f2e60bb917a072d9be1f138cc2e23ae"
+    },
+    {
+      "file": "047.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/47",
+      "bytes": 39875,
+      "sha256": "cec52108496ea0d2034c23321c8754444b8e77d60ea379813a5bb9920462cf69"
+    },
+    {
+      "file": "048.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/48",
+      "bytes": 40206,
+      "sha256": "82a8c871ff3330faf6248cb96b8b6dc1b441b8cb1d4cc0f3815c0a8be0a0526b"
+    },
+    {
+      "file": "049.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/49",
+      "bytes": 24464,
+      "sha256": "08da12ac7c4bcfb27410269f0a428e07afe29ec663775346855c96a2e8d5cebe"
+    },
+    {
+      "file": "050.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/50",
+      "bytes": 27842,
+      "sha256": "b6fa84a88a522fc2df53438441191f0006b73eff372658031db4c039222654c8"
+    },
+    {
+      "file": "051.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/51",
+      "bytes": 29238,
+      "sha256": "97f081793e2e5a98777e9c3939d5cad87f4f1de47c1c9d63b29943376065d5e4"
+    },
+    {
+      "file": "052.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/52",
+      "bytes": 24709,
+      "sha256": "2b9d420f73a569248bdf19721f2b9c8656c873b05cfbcc89ba34ab44f2075f9c"
+    },
+    {
+      "file": "053.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/53",
+      "bytes": 28872,
+      "sha256": "899fe8efbaa5968ce4ee62cb2867d7657cc6d73a8d073e38076842470e5391f6"
+    },
+    {
+      "file": "054.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/54",
+      "bytes": 28257,
+      "sha256": "18f57caceaaebf443c75386b1f4eaec8e9203428efbdc4520af5cda5a7d3f9b5"
+    },
+    {
+      "file": "055.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/55",
+      "bytes": 32806,
+      "sha256": "9dfe22475d33d206590434743c20f6cbcc105db9aae246ae388d795b72386442"
+    },
+    {
+      "file": "056.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/56",
+      "bytes": 35338,
+      "sha256": "8af8b9b081d1baaa099360f6b645271b14cc481da55ca26bba3a9f6edec364dd"
+    },
+    {
+      "file": "057.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/57",
+      "bytes": 40885,
+      "sha256": "2abbb26ccffaf3d5c4b8b971a83fa50ea5b5a07ae6b4dc1b08631076ca76844f"
+    },
+    {
+      "file": "058.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/58",
+      "bytes": 32499,
+      "sha256": "870494dfbb9c73cacf12eec6281db9051f84627a09c22570c5398a00d455a32f"
+    },
+    {
+      "file": "059.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/59",
+      "bytes": 31228,
+      "sha256": "bd91403b7f6b02855241f217d91d932f9183e9e9035f9b1bc19b1802adae855a"
+    },
+    {
+      "file": "060.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/60",
+      "bytes": 24302,
+      "sha256": "ef9b12f96ec9c0f5b63a3870971884df168c26640f2c34d84aa4b3981040fc96"
+    },
+    {
+      "file": "061.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/61",
+      "bytes": 15428,
+      "sha256": "1b11b7492c729b2702cf7eebb5fc82837c2604d502a4fdfef60ad3f1cf99ed0c"
+    },
+    {
+      "file": "062.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/62",
+      "bytes": 12284,
+      "sha256": "dab6bba3246d32e6635243b79b878e9f9e64c89ac5808c665b572ba0200f49df"
+    },
+    {
+      "file": "063.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/63",
+      "bytes": 13095,
+      "sha256": "4f8a64480a995cb7b1484335c57fea19075e5b653cc3fa7135e694187b69be14"
+    },
+    {
+      "file": "064.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/64",
+      "bytes": 18293,
+      "sha256": "fe906688acbbd2159514819efb697cbfee3be9abf18c733e639d0dc166adcf07"
+    },
+    {
+      "file": "065.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/65",
+      "bytes": 19741,
+      "sha256": "d43bca0a15fcd4444ab29eed517c4cce0bcd90cac0cc4ee089ad178167a1464d"
+    },
+    {
+      "file": "066.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/66",
+      "bytes": 17717,
+      "sha256": "85dd98a6d798c3b6e5f86d5037a032f84b8a3b8cc2c20bfded2631cedf5f2c4e"
+    },
+    {
+      "file": "067.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/67",
+      "bytes": 23387,
+      "sha256": "54adc70f616e88c4613262c7e7e10973617151ceb451ac5a7f4d71a41a82f931"
+    },
+    {
+      "file": "068.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/68",
+      "bytes": 24942,
+      "sha256": "445f4802ce03d47210eadf2532c20501ac04281c4ae3d54202dcf38521ce42f4"
+    },
+    {
+      "file": "069.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/69",
+      "bytes": 21696,
+      "sha256": "f14409b12760946ecaabe600a502ba7528e168de6be4c2fdbdef525ce603c49c"
+    },
+    {
+      "file": "070.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/70",
+      "bytes": 18677,
+      "sha256": "638436b768463e6ed19ca143e4a4c7cf83b02bf763da5bd86315476bf5321c39"
+    },
+    {
+      "file": "071.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/71",
+      "bytes": 16683,
+      "sha256": "0c7f76746e451f394ecacbea8bbc8cd600f019c54ed14bead480485d02c45318"
+    },
+    {
+      "file": "072.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/72",
+      "bytes": 19529,
+      "sha256": "ea9ad7ab0ffbd535f500e9955f90212a98a8fdfb6e2d0953cba05f77d0e9079b"
+    },
+    {
+      "file": "073.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/73",
+      "bytes": 14780,
+      "sha256": "fecab635ad84a7a941fdba201521dea513a239f088e00e24fe15865f66c4934b"
+    },
+    {
+      "file": "074.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/74",
+      "bytes": 21543,
+      "sha256": "309e4b5a85959c67776e6a0220430a3fe2d21cf074d77a156bf235ccd9aacd79"
+    },
+    {
+      "file": "075.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/75",
+      "bytes": 14765,
+      "sha256": "d9802995aa2ae6a93b1ecc23c1d66c7153936ab1aabb8df2b5869fa1fbd4131d"
+    },
+    {
+      "file": "076.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/76",
+      "bytes": 18585,
+      "sha256": "c4062b00195b44226a0967b873e605c3571670121a4db7d589d3fad54cbf28b4"
+    },
+    {
+      "file": "077.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/77",
+      "bytes": 17189,
+      "sha256": "ac0e4fbc9e480ab0cc602835ddd21386c55a3150816d18abbb0e05ef18bb7a12"
+    },
+    {
+      "file": "078.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/78",
+      "bytes": 15114,
+      "sha256": "60fa7568b0677db4316674840e7dbaf0adc1835ce0e8774f1e6dc0d797d70c69"
+    },
+    {
+      "file": "079.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/79",
+      "bytes": 16137,
+      "sha256": "e80aeca90a4815b3f02f3d5c5379d1e58b024f82c7ac5b86d9032a732086ef44"
+    },
+    {
+      "file": "080.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/80",
+      "bytes": 13039,
+      "sha256": "79af1546a6441d762f813008ff4c509970715f8b3efef34c611363fe2c4a0a62"
+    },
+    {
+      "file": "081.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/81",
+      "bytes": 9357,
+      "sha256": "a52e6de940602d550e492f81a6c91172cadedf6f24ef7a70ccfe14e79069303f"
+    },
+    {
+      "file": "082.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/82",
+      "bytes": 6803,
+      "sha256": "0d091aea6cc9ccd6b88d8fccf499071943f74b447c844e44961d907f943cd0cf"
+    },
+    {
+      "file": "083.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/83",
+      "bytes": 14938,
+      "sha256": "1057743e50fc06f82867c14b8a04f2a30fd646997cac798b13c2bb288b4f3184"
+    },
+    {
+      "file": "084.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/84",
+      "bytes": 9002,
+      "sha256": "f6e9fa7283be2d57deb52d86ee29985f3a5ed25c6ee42589b350b4d91578e8a6"
+    },
+    {
+      "file": "085.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/85",
+      "bytes": 9212,
+      "sha256": "699ce2ddcae80b1509a29a5b6248547cf95f1381a24e44821e494c57b3957e77"
+    },
+    {
+      "file": "086.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/86",
+      "bytes": 5431,
+      "sha256": "f3b85f0c1f124ba7fb087fad4aaaecee5242a9c1deda14502ad2cdb11f92df1d"
+    },
+    {
+      "file": "087.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/87",
+      "bytes": 6263,
+      "sha256": "183ad5901329236baea38e0d9789fd7f30d312f67fe4119fe9efeebfde6e6de4"
+    },
+    {
+      "file": "088.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/88",
+      "bytes": 8042,
+      "sha256": "8b42a7983e4c5e798cdd8b5f9b126e08c0e59afdd0592b73b8c8aed67ab6b735"
+    },
+    {
+      "file": "089.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/89",
+      "bytes": 11510,
+      "sha256": "67dda341dcf131750170178d1ffe1b2dea9bea0f2b3496547f6cf4d69277410f"
+    },
+    {
+      "file": "090.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/90",
+      "bytes": 7201,
+      "sha256": "2e450943239fd187e4c48f8a9a18ab05b780abfccf91ee5e6787f967b45b3f44"
+    },
+    {
+      "file": "091.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/91",
+      "bytes": 5344,
+      "sha256": "94b66f6ca2e64b9c764ec5f91f023ccdace0a97472fd35b6ae3ea53ca3f71424"
+    },
+    {
+      "file": "092.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/92",
+      "bytes": 7134,
+      "sha256": "430545341a4e37c25965a1e700210323b01d9a119d0a989faf910a4f81390438"
+    },
+    {
+      "file": "093.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/93",
+      "bytes": 3726,
+      "sha256": "5388d58d599ec66b5f5012f9c5db9dd6e897ca1ddf2c5469b00611d4baaef767"
+    },
+    {
+      "file": "094.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/94",
+      "bytes": 2298,
+      "sha256": "69290e9cb819ad81d65325f3da6fb7ea753845bb2517d4b7b99adc406314d642"
+    },
+    {
+      "file": "095.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/95",
+      "bytes": 3039,
+      "sha256": "0fd80d4bc7c25e512c8d24c841a1ee28b9b51ba15aabd7a82f54acda4108b431"
+    },
+    {
+      "file": "096.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/96",
+      "bytes": 6174,
+      "sha256": "e57cdcefd35fdb11302edb9f7c93a21a68cadce4166f6f96e43dd61622269cf6"
+    },
+    {
+      "file": "097.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/97",
+      "bytes": 2299,
+      "sha256": "4c9e0c9e6ccfb3affdc047184c295d3e3a5568007d0e46ed589699be549fc6e0"
+    },
+    {
+      "file": "098.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/98",
+      "bytes": 6750,
+      "sha256": "2d78524c42c7cf161f38c811d77b44e9e98fb727204ae1897e55c2d538dfa356"
+    },
+    {
+      "file": "099.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/99",
+      "bytes": 3186,
+      "sha256": "2a82c79dba577dd265b7b1745653c7fb79fcbf0a3a7922801a86ec8d65f7e4cf"
+    },
+    {
+      "file": "100.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/100",
+      "bytes": 3586,
+      "sha256": "f99a547d20b14a87e8306e078732ad02d1849b47c610ab0a4a1be16ec6bf111e"
+    },
+    {
+      "file": "101.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/101",
+      "bytes": 3498,
+      "sha256": "854058a6b7c6f77df3813505271886fc87d16d628f3c0bb72303134b40ed8a49"
+    },
+    {
+      "file": "102.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/102",
+      "bytes": 2528,
+      "sha256": "18b9912956640e68fbaa88e3843c70c1775821053938fd02c72fba97bc7cd38f"
+    },
+    {
+      "file": "103.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/103",
+      "bytes": 1325,
+      "sha256": "1acd9e0718666b1e9e627e18fc58deb471f57c742d338728a5e854981812e595"
+    },
+    {
+      "file": "104.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/104",
+      "bytes": 3062,
+      "sha256": "72f08bc105869188b92d7656581e5caf31dcbfc941af1c83500c70f59aa172ce"
+    },
+    {
+      "file": "105.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/105",
+      "bytes": 1896,
+      "sha256": "e4861105dcc39b34d48d87ec8a940b5442d8964f80d599b2979c52408299a9ba"
+    },
+    {
+      "file": "106.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/106",
+      "bytes": 1551,
+      "sha256": "8eb237c97deb8a55246f8966ef3e9987f43d5c0a66d06e07c5ae280c03fec5b1"
+    },
+    {
+      "file": "107.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/107",
+      "bytes": 2338,
+      "sha256": "6a1566285bea4daeaf97d2ea19dade5b19311ab8f33c8d588ccb185dfc12091a"
+    },
+    {
+      "file": "108.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/108",
+      "bytes": 1411,
+      "sha256": "8211aac1cd314eed0c2a805bbe51521ba475cf1bbbf9c31dda86ce4ff4ff5141"
+    },
+    {
+      "file": "109.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/109",
+      "bytes": 2193,
+      "sha256": "d74805129119abc65942abd1e13d3fce631b521c78ebce30858adea6ce965307"
+    },
+    {
+      "file": "110.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/110",
+      "bytes": 1474,
+      "sha256": "32f76ff70059fc9adb12b90961a36fbe44a8ac4f2cc2d5eae6cb8a05f50eaa3e"
+    },
+    {
+      "file": "111.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/111",
+      "bytes": 1730,
+      "sha256": "b0e338136e8baeba1ba238428639d0b98c4c826dd4ed1238e9289bcefc090c42"
+    },
+    {
+      "file": "112.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/112",
+      "bytes": 1415,
+      "sha256": "89fb15e5d24c0475cb73bd5707820ceca7613ac6d9b00a63f44a14130efdac57"
+    },
+    {
+      "file": "113.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/113",
+      "bytes": 1622,
+      "sha256": "6241ce7eb5ce7126a9393f85a14d8aa924b078982475a2ae4d830fc3ce11d3a7"
+    },
+    {
+      "file": "114.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/french_montada/114",
+      "bytes": 1893,
+      "sha256": "6f5bb24836863acbef0ea9ab47d02226c47fb163ce3bc097a29eb1086b732d1b"
+    }
+  ]
+}

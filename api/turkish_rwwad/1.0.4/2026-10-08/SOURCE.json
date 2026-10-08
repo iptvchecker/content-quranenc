@@ -1,0 +1,716 @@
+{
+  "source": "QuranEnc.com",
+  "sourceURL": "https://quranenc.com",
+  "licenseURL": "https://quranenc.com/en/home/api",
+  "publisherMetadata": {
+    "key": "turkish_rwwad",
+    "direction": "ltr",
+    "language_iso_code": "tr",
+    "version": "1.0.4",
+    "last_update": 1759071052,
+    "title": "Turkish Translation - Rowwad Translation Center",
+    "description": "Translated by the team of the Rowwad Translation Center, in cooperation with the Rabwah Dawah Association, the Islamic Content Service Association in Languages, and the IslamHouse.com website.",
+    "file": "turkish_rwwad",
+    "database_url": "https://quranenc.com/downloads/sqlite/turkish_rwwad.zip",
+    "database_uncompressed_url": "https://quranenc.com/downloads/sqlite/turkish_rwwad.sqlite",
+    "pdf_url": null,
+    "pdf_size": null,
+    "pdf_cover": null,
+    "pdf_pure_url": "https://quranenc.com/downloads/pdf/turkish_rwwad.pure.pdf",
+    "pdf_pure_size": 18870190,
+    "pdf_pure_cover": "https://quranenc.com/downloads/pdf_covers/turkish_rwwad.pure.png",
+    "pdf_mobile_url": "https://quranenc.com/downloads/pdf/turkish_rwwad.mobile.pdf",
+    "pdf_mobile_size": 8546113,
+    "pdf_mobile_cover": "https://quranenc.com/downloads/pdf_covers/turkish_rwwad.mobile.png",
+    "epub_url": "https://quranenc.com/downloads/epub/turkish_rwwad.epub",
+    "epub_size": 1441978
+  },
+  "retrieved": "2026-10-08",
+  "contentModified": false,
+  "files": [
+    {
+      "file": "001.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/1",
+      "bytes": 2547,
+      "sha256": "316be8a221b41999c2e2cdf58d26f48f574b0cdc30982f1f12d29b6bce7064d3"
+    },
+    {
+      "file": "002.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/2",
+      "bytes": 420777,
+      "sha256": "9921a166793ce55a62a6f8d61ff11ffa6bf3b5cf8e7350cd5545ad4f4be8a82e"
+    },
+    {
+      "file": "003.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/3",
+      "bytes": 241258,
+      "sha256": "6c6b93a3f63dc18dc7a513f4bb0eebd7cb8b7c39efaa0c843840d5f39aa21ada"
+    },
+    {
+      "file": "004.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/4",
+      "bytes": 257617,
+      "sha256": "ef0d2add783aed68900a5d342b40f49ba56dfd151dfef8d8f23b903abc854a63"
+    },
+    {
+      "file": "005.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/5",
+      "bytes": 190510,
+      "sha256": "6a97938293f2d2903a03ce0c47385fcd1e1818a5a9ace793345b31821d44ffee"
+    },
+    {
+      "file": "006.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/6",
+      "bytes": 209945,
+      "sha256": "af981ef891dbc60a69da8bf19b91e519aa0b15d6971d1af3a086f6e306b8d355"
+    },
+    {
+      "file": "007.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/7",
+      "bytes": 235524,
+      "sha256": "270110dfa0a706a27059d2f2e460ef33c582e548efac579598aea24e6b3ed5ea"
+    },
+    {
+      "file": "008.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/8",
+      "bytes": 88191,
+      "sha256": "31879a1f9b8dddc1d2ea4dc90d3f04525a7fa6a910adc2df8742d25a6449ac16"
+    },
+    {
+      "file": "009.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/9",
+      "bytes": 175808,
+      "sha256": "ff2bf6f3f930ac9a536ccfd53febf62abbc531eccd90dce7787b5652d29c7930"
+    },
+    {
+      "file": "010.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/10",
+      "bytes": 123819,
+      "sha256": "1d4232752f88c353457f7258ced7ed0b0b92dbe4711ffd624e4ede547dae4e3f"
+    },
+    {
+      "file": "011.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/11",
+      "bytes": 131663,
+      "sha256": "57c2d8c015110c89bffcea8d5cbb5a6bd87301f4862a5ea9d358ac76784bec53"
+    },
+    {
+      "file": "012.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/12",
+      "bytes": 123170,
+      "sha256": "e5f8761157f5f6597db3146007df252da590a12e9c7cfde667a6da279966be28"
+    },
+    {
+      "file": "013.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/13",
+      "bytes": 58108,
+      "sha256": "8af704dfa8934ad145501324be4455a7f24af92fac5837d2a048d5d5fc09730d"
+    },
+    {
+      "file": "014.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/14",
+      "bytes": 58235,
+      "sha256": "6ef06e6726415fed5dd8f0c3d8f45dd1ca109c9a76a6dc06ded9230bdd8f2908"
+    },
+    {
+      "file": "015.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/15",
+      "bytes": 52132,
+      "sha256": "7d21d7d9f8772c34908730c55f40b47c892738defd800822b0169d7ddc3ed851"
+    },
+    {
+      "file": "016.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/16",
+      "bytes": 129651,
+      "sha256": "c316a34a18c8e0a156ae5901a8198f432fd08d5bb4ce8ae5d80c3209c8267a98"
+    },
+    {
+      "file": "017.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/17",
+      "bytes": 108926,
+      "sha256": "a377499fd56c6358a103d4a55538e1511d9173d6df4cc63ff4f82c938bc7d825"
+    },
+    {
+      "file": "018.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/18",
+      "bytes": 109271,
+      "sha256": "7aec894fa035468a0935e2c73756c509313f627d41c8dd1189982cabad484d8f"
+    },
+    {
+      "file": "019.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/19",
+      "bytes": 68843,
+      "sha256": "95aba08eaeed6e27e751fc89fd9a48db47e1407734caa015a6654cf698a9b0f2"
+    },
+    {
+      "file": "020.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/20",
+      "bytes": 94543,
+      "sha256": "e4843a8ff7e2ea75652593e82851270c9b59c8ba49951022aca5eebeea2cf545"
+    },
+    {
+      "file": "021.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/21",
+      "bytes": 87678,
+      "sha256": "dd05c9f3a0317c2ab111d2359e2154111b0e638c8fc46eb8619b82e93b0b2c14"
+    },
+    {
+      "file": "022.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/22",
+      "bytes": 87155,
+      "sha256": "8639e9e9637d32e360deedc19e67d3bde6680f4deeecb86c93262b63ae29be91"
+    },
+    {
+      "file": "023.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/23",
+      "bytes": 78565,
+      "sha256": "b586316bb81271b29bd1ffa10a40c261bfaa8f49ef666eac3adeb5c64697e224"
+    },
+    {
+      "file": "024.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/24",
+      "bytes": 92048,
+      "sha256": "03de7d85510550841af38025ff08a570c4abf96441440b0c52bddb16bdcd3aaf"
+    },
+    {
+      "file": "025.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/25",
+      "bytes": 64221,
+      "sha256": "02298c8d3336edaa496fa28ea399a7498ed54f393180442940b2ea624146feff"
+    },
+    {
+      "file": "026.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/26",
+      "bytes": 105917,
+      "sha256": "bea4dc9db77cc805f38c24a3285ebd6116967184cbba544c7f39a795be3626da"
+    },
+    {
+      "file": "027.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/27",
+      "bytes": 81215,
+      "sha256": "4872a93eacf20092292524906a7ab6707f5bef7a8da4c5f6d2bcab0d85ca9090"
+    },
+    {
+      "file": "028.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/28",
+      "bytes": 97272,
+      "sha256": "600255850fdbafc051bbed9956d66c9276679554d05d6dcd1fe6fb44115d7d77"
+    },
+    {
+      "file": "029.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/29",
+      "bytes": 70465,
+      "sha256": "9f0d8f29281f54b7d054462857cd35049a403504f8c801d14fc19a42343adcb4"
+    },
+    {
+      "file": "030.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/30",
+      "bytes": 58132,
+      "sha256": "1746f1f2a538eb20fe1d61c42735109a27043c90fc7d3d8da15e06370f0d7e8e"
+    },
+    {
+      "file": "031.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/31",
+      "bytes": 36178,
+      "sha256": "18fb4125dd2e58566048526bbc5490b057d110627a224a261d64efb820cb19a5"
+    },
+    {
+      "file": "032.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/32",
+      "bytes": 25975,
+      "sha256": "09abad0d158ad58cb7da3f60b721ac4b0648405e3fb9118a7077799ba9748a44"
+    },
+    {
+      "file": "033.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/33",
+      "bytes": 92007,
+      "sha256": "9cd3cbe85ceb8ba5b428259fa27872871d6c428306d3b01284de8de05e0ea993"
+    },
+    {
+      "file": "034.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/34",
+      "bytes": 59583,
+      "sha256": "9834459cb3d9ab77529fa9904201c32de309b754b97496a8e1ae7c0c1ac2dcc2"
+    },
+    {
+      "file": "035.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/35",
+      "bytes": 52667,
+      "sha256": "94fc987b77970405e3b2f63d2a326c3253fd83ca22703cbe8f4908a112ecf721"
+    },
+    {
+      "file": "036.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/36",
+      "bytes": 53451,
+      "sha256": "0b063194f823e5690806db3e4fd9aa6baa5943dbf256e7b48be5e11e4eef6a06"
+    },
+    {
+      "file": "037.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/37",
+      "bytes": 75033,
+      "sha256": "cf5d88d2be76f7fadfd9669ffd6d78d8823674c35bb20897928edf1816d36d8d"
+    },
+    {
+      "file": "038.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/38",
+      "bytes": 54845,
+      "sha256": "a063b6899ca82196aa172d37a809a8678750ef1fa1264c40074af0e38186e6ce"
+    },
+    {
+      "file": "039.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/39",
+      "bytes": 79816,
+      "sha256": "fec2e5e8bd8240309e18b172be874dd0d86f9393b2f49b10c1d1166fe7e127b8"
+    },
+    {
+      "file": "040.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/40",
+      "bytes": 84671,
+      "sha256": "954192f928a2fee1c17ae3ff0033708ac0c69d4a0a1bbe5804be460e3ac832d1"
+    },
+    {
+      "file": "041.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/41",
+      "bytes": 55318,
+      "sha256": "767d09e99178e02a448f81dbe168a0c44ea0d0fe9dad90705376b0aebf10cb62"
+    },
+    {
+      "file": "042.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/42",
+      "bytes": 57115,
+      "sha256": "369a0b641b526619f314d3abe7f46ca5eed1fe115decff62e03e8c0d2cbddd5e"
+    },
+    {
+      "file": "043.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/43",
+      "bytes": 62337,
+      "sha256": "6584e8e72c1c45d6139ce4361613538a5cab68a0c6183365e42a95739dc3365d"
+    },
+    {
+      "file": "044.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/44",
+      "bytes": 27136,
+      "sha256": "ee25e502c0a6b2193e4ba996a9d51894e478869152184470a4add5551fc50cda"
+    },
+    {
+      "file": "045.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/45",
+      "bytes": 34556,
+      "sha256": "a0242dafa6089b66ddd8c6aa8315f33b295f69641cefd9212bb8ffc8952b4f35"
+    },
+    {
+      "file": "046.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/46",
+      "bytes": 43519,
+      "sha256": "c5d0294b504b5f754c6c8ed14b2950437cc12ae03f3a96727672f7abecf01a52"
+    },
+    {
+      "file": "047.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/47",
+      "bytes": 39969,
+      "sha256": "6247500fda45eda098782ac0e69f61e6bb74942fd3a2abaf26f7caaa9da54bfe"
+    },
+    {
+      "file": "048.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/48",
+      "bytes": 39435,
+      "sha256": "d1c30e97f06ca49070260a0a123f85f67b39adf57901b2607cd4710914cbfc06"
+    },
+    {
+      "file": "049.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/49",
+      "bytes": 24283,
+      "sha256": "823e66f18545113ac7385a169d699ad1dc8ffea4d7412ee62ae240055f27bbb8"
+    },
+    {
+      "file": "050.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/50",
+      "bytes": 26943,
+      "sha256": "70c958e215173afcea4186454d3e3636550928170e7ec2c236881ffee22c6dd4"
+    },
+    {
+      "file": "051.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/51",
+      "bytes": 28857,
+      "sha256": "3c61c7463f32fd05bd0abdb08de272e8a8273d3ab7ba8ba51a4526be91c94d71"
+    },
+    {
+      "file": "052.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/52",
+      "bytes": 24473,
+      "sha256": "ff851adb15baefe5fb17a0d470f83c71e7809534b9f89fb3092fedd609b9e5ec"
+    },
+    {
+      "file": "053.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/53",
+      "bytes": 27799,
+      "sha256": "6774bf4f04a5c53ae0e86d112bad9e839bdbff65744bf6d5297a82933ad78918"
+    },
+    {
+      "file": "054.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/54",
+      "bytes": 28391,
+      "sha256": "1de129796adc4acd09ed1cf692c013127038ec0991449b357ec501dd718f3df7"
+    },
+    {
+      "file": "055.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/55",
+      "bytes": 31650,
+      "sha256": "1dd9939f21a332b84e1ff6103d6236a761efa5c693c7f176ed5c68ac5bf3ae67"
+    },
+    {
+      "file": "056.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/56",
+      "bytes": 33985,
+      "sha256": "2fa2e64dc906ddcb148349a4a3529d0b4a80ba1f800c3a802f3f7ea93af38c14"
+    },
+    {
+      "file": "057.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/57",
+      "bytes": 40330,
+      "sha256": "aae66cb908ac50443bc22c3b83b94424251c2272992dbab958f6df1d8f593fb2"
+    },
+    {
+      "file": "058.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/58",
+      "bytes": 32489,
+      "sha256": "8b5eddc59acae80fb31ae0c28ab467b3adae23b1d04a62e0bda558e74ca3f76d"
+    },
+    {
+      "file": "059.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/59",
+      "bytes": 31396,
+      "sha256": "01b6a697f442f9715a5ce32df8a7b3545574cd29cf647a6691684c50000b7de8"
+    },
+    {
+      "file": "060.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/60",
+      "bytes": 24073,
+      "sha256": "ac1c4739d20c11faa0faca6146e4ae5b636020eb206912dcc6ccad475747537e"
+    },
+    {
+      "file": "061.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/61",
+      "bytes": 15122,
+      "sha256": "137cbdcb7b1248012235c0c220732a3aef9a510bac36e0fd8396c156b6136fc0"
+    },
+    {
+      "file": "062.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/62",
+      "bytes": 12092,
+      "sha256": "7fc48308ad16ad3f1d66e24d8dd669381da8b5bad214ad117b4b6552f59a69bc"
+    },
+    {
+      "file": "063.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/63",
+      "bytes": 12875,
+      "sha256": "aa77e3570c0365f56cb80eea1b8762d6f84a5b53f83ab6f86da127f71d213727"
+    },
+    {
+      "file": "064.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/64",
+      "bytes": 17716,
+      "sha256": "aa95a4252e894eb9e289a21a200a3a18b05d910cfd466ad63c7e42c8b741ca49"
+    },
+    {
+      "file": "065.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/65",
+      "bytes": 19821,
+      "sha256": "ec3a1c6ae8b120df03f127799a45dee57f1a6c7da86e2a0ad39721c443576f16"
+    },
+    {
+      "file": "066.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/66",
+      "bytes": 17379,
+      "sha256": "abefa9a34d8958f772345a74430284b2c6cdecd954282e21a1646006ad356edb"
+    },
+    {
+      "file": "067.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/67",
+      "bytes": 23138,
+      "sha256": "bb95dd1fa32641097667722fb4b495d3195f31cf5f2b39f7c0213ca2a50fb98c"
+    },
+    {
+      "file": "068.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/68",
+      "bytes": 24406,
+      "sha256": "d552d7f47cedaf6414431779c79cde7adb477c4c4766bfa3101acc037c44fc7c"
+    },
+    {
+      "file": "069.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/69",
+      "bytes": 21786,
+      "sha256": "a9661229298c6f3bec4eea23f96b83405ce9c2febaed7cd89caabfdd7b7f8801"
+    },
+    {
+      "file": "070.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/70",
+      "bytes": 18324,
+      "sha256": "bedd256f285e305044c6acc487abadd67b77d634fa32f3542134d9e86c5be2d4"
+    },
+    {
+      "file": "071.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/71",
+      "bytes": 16836,
+      "sha256": "883abfeaed5b5aed9cf3f99183e074371fee68549ee7f72b667091f204f84785"
+    },
+    {
+      "file": "072.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/72",
+      "bytes": 19639,
+      "sha256": "8fd2f9d28ab75f222cfd2cef048ccd229543a0b73ef82538c5c14adf15b40a77"
+    },
+    {
+      "file": "073.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/73",
+      "bytes": 14914,
+      "sha256": "c4c11e459f46beb99f7e6ea92d24113aa4a638a22c3e7b9eb360e4caa9742ecc"
+    },
+    {
+      "file": "074.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/74",
+      "bytes": 20913,
+      "sha256": "66fa8b8e10ef105474f10e6a6e453c70f7a4c72526d9a04affd65a43a55c8a0c"
+    },
+    {
+      "file": "075.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/75",
+      "bytes": 14178,
+      "sha256": "4a4eb90345cc19c179494e431efdd97f8beb32b422f49b20faa3ea6d9309e7c6"
+    },
+    {
+      "file": "076.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/76",
+      "bytes": 18624,
+      "sha256": "339ba90ef3488282c0416e66e7461526d5bb46a2278019589eab63095507828a"
+    },
+    {
+      "file": "077.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/77",
+      "bytes": 16999,
+      "sha256": "35d1d933c92b8d9b8f058f0995053efe0081305e08a70ac1cbaf7fd402606b89"
+    },
+    {
+      "file": "078.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/78",
+      "bytes": 15420,
+      "sha256": "8700811ca94777fdf25616b9c2e3259e1aa2c319b55a688d63c98eea984d3224"
+    },
+    {
+      "file": "079.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/79",
+      "bytes": 16267,
+      "sha256": "57e2c618cef903868cfa7f9ab6bc470c8c706788825370e32c273e0369416918"
+    },
+    {
+      "file": "080.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/80",
+      "bytes": 12334,
+      "sha256": "89aa83c0d5cb34185d813ff8df64babc27fcd4505f5df1e9b395c9195ed6a277"
+    },
+    {
+      "file": "081.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/81",
+      "bytes": 9289,
+      "sha256": "daf8c1ceccf64f7c6411495ac63baf7e3e6e100c5d80f9268dac519481b58098"
+    },
+    {
+      "file": "082.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/82",
+      "bytes": 6845,
+      "sha256": "a06eeffaed3222302fcfcabf2ae494062e39f1a83cc5d4950b7969a523cb8996"
+    },
+    {
+      "file": "083.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/83",
+      "bytes": 14542,
+      "sha256": "115117116cc7cd75b702c190edb06fd55adbfaf6c5aad974e3b738e4dd1c1f7a"
+    },
+    {
+      "file": "084.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/84",
+      "bytes": 9028,
+      "sha256": "992b8a16ca8a5d764fdf96e6e4bfc52575611f0f9fee13655d7c952baf2b5325"
+    },
+    {
+      "file": "085.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/85",
+      "bytes": 8881,
+      "sha256": "f6d2a5c13bf5aaa0009f1309d946dbb237d1c7fb4894ccdfa6d8c1032f760055"
+    },
+    {
+      "file": "086.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/86",
+      "bytes": 5523,
+      "sha256": "9f88f2bd4a9c203fae781174a2f33c279c8bad92f98546ad447ebd7947a79f1e"
+    },
+    {
+      "file": "087.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/87",
+      "bytes": 6362,
+      "sha256": "2f247f94f67a106ecf9d4b4935686df55df363b0ea74bb11505c502bb326c489"
+    },
+    {
+      "file": "088.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/88",
+      "bytes": 8266,
+      "sha256": "70e71f9dfa93781e38bce9a7fcc1b69c0de739958d289be39b25258448cb98ab"
+    },
+    {
+      "file": "089.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/89",
+      "bytes": 11393,
+      "sha256": "a547fdc4b35ed3b78e92c5bd06e5f3b0445a293cbd556482a9d536ae6cdad1d9"
+    },
+    {
+      "file": "090.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/90",
+      "bytes": 6808,
+      "sha256": "eaffef11ce39a1bd33abfc13f85a07773864dd10b579852c6bb488df3a0330a9"
+    },
+    {
+      "file": "091.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/91",
+      "bytes": 5397,
+      "sha256": "be8ee29862584381ec7e852078118c40d00b3413ca6cdd994f3169742598d3d6"
+    },
+    {
+      "file": "092.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/92",
+      "bytes": 6941,
+      "sha256": "ccaa4e78731142a5baf9196fa1782a5b58e88215d1e1c3f6a1cd14872facbe4b"
+    },
+    {
+      "file": "093.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/93",
+      "bytes": 3521,
+      "sha256": "b0c6a717fce1b70bf3d28b40199fb1f537d6eaa7cecd0ca6e9f3b5543d6b2047"
+    },
+    {
+      "file": "094.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/94",
+      "bytes": 2394,
+      "sha256": "4d325a56682124a60645c762f74e7a85934655ba38695db4a883cbf458b01ba0"
+    },
+    {
+      "file": "095.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/95",
+      "bytes": 3058,
+      "sha256": "30c48e852d7e718763270b8f53f27a0914df336767df9203c2cea52611366397"
+    },
+    {
+      "file": "096.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/96",
+      "bytes": 6186,
+      "sha256": "afc7e602405d63081f49bda0ea96b10086f8834ce344bbc5ab0ca4dac1bf131b"
+    },
+    {
+      "file": "097.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/97",
+      "bytes": 2130,
+      "sha256": "55fbc1487851170ea2fd32bc3dc6a425998062cbcddb19be8d309fe278f25c18"
+    },
+    {
+      "file": "098.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/98",
+      "bytes": 6856,
+      "sha256": "aa3e3a765ebcb8a2e2dc55815427aef00003725075ff4625eee98c22fa627b57"
+    },
+    {
+      "file": "099.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/99",
+      "bytes": 3249,
+      "sha256": "bdde7c032064c0cfbaf774d8d4621c66d9a021779f664df9e212ebb15755a555"
+    },
+    {
+      "file": "100.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/100",
+      "bytes": 3504,
+      "sha256": "36c17caf49309d70025ec04339d6855f767428ec0f51e17d18e1982f98084179"
+    },
+    {
+      "file": "101.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/101",
+      "bytes": 3452,
+      "sha256": "e1374b214f9f7081e78e3b0dbc57d9d08b95ccc626de7c6862ff123cafefeb1e"
+    },
+    {
+      "file": "102.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/102",
+      "bytes": 2602,
+      "sha256": "74a3633ba5816f32251591254733ae2e575900f63f9bfed62a37b74f98c30eb6"
+    },
+    {
+      "file": "103.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/103",
+      "bytes": 1273,
+      "sha256": "7038587f80fb390adc92cddc87b151d4231d3a902a0955c837a717026aa5210e"
+    },
+    {
+      "file": "104.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/104",
+      "bytes": 3032,
+      "sha256": "6e32fa501f9c6a1fdd408c0c626ef1b4672482758b39df05217d5c0c908a8b64"
+    },
+    {
+      "file": "105.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/105",
+      "bytes": 2022,
+      "sha256": "5a39405fffd62c472f3fdb419ded11ee96e622ce1ba45ec2315a1d5ec7f17b50"
+    },
+    {
+      "file": "106.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/106",
+      "bytes": 1530,
+      "sha256": "efef7a99b5a4734a4807e66225840d9a22b3be0ca83cec6749ac4eff2b338b4d"
+    },
+    {
+      "file": "107.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/107",
+      "bytes": 2227,
+      "sha256": "deb2f242647986f1d067cfaf3f80bc3075268baeb31dcb0515d2adf8400b60a5"
+    },
+    {
+      "file": "108.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/108",
+      "bytes": 960,
+      "sha256": "43ab3908c415d05229688dc636b1462e7812c18d248cfa8b79b124a940c3a603"
+    },
+    {
+      "file": "109.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/109",
+      "bytes": 1947,
+      "sha256": "9053934fca1d26f1a1e5f5df0996a98522c766b117db40591993ba1ae2685d63"
+    },
+    {
+      "file": "110.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/110",
+      "bytes": 1568,
+      "sha256": "dd4f98c118cfe355471183e45e3724ecd1f8eb531f9855d4eb313012b6a92d03"
+    },
+    {
+      "file": "111.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/111",
+      "bytes": 1643,
+      "sha256": "5f14fb06943a2803e665e55e4c87c3c39af5774692652333bf62b153f87fff9d"
+    },
+    {
+      "file": "112.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/112",
+      "bytes": 1053,
+      "sha256": "9990ee31f626f3ff0de540f914b0d7d85c693f36378232e8ddfe00349817827e"
+    },
+    {
+      "file": "113.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/113",
+      "bytes": 1606,
+      "sha256": "8ff610a94b822d2bcaa2e5b7bc9a330bc9a4610fc6831c902a88d3eab6c26437"
+    },
+    {
+      "file": "114.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/turkish_rwwad/114",
+      "bytes": 1761,
+      "sha256": "389dee7e3edb23c866dd7022027de972c1d4984857e2edd6c1b32110aafa0d72"
+    }
+  ]
+}

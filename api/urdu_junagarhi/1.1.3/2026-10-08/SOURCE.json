@@ -1,0 +1,716 @@
+{
+  "source": "QuranEnc.com",
+  "sourceURL": "https://quranenc.com",
+  "licenseURL": "https://quranenc.com/en/home/api",
+  "publisherMetadata": {
+    "key": "urdu_junagarhi",
+    "direction": "rtl",
+    "language_iso_code": "ur",
+    "version": "1.1.3",
+    "last_update": 1755085049,
+    "title": "Urdu Translation - Muhammad Junagarhi",
+    "description": "Translated by Muhammad Ibrahim Junagarhi, developed under the supervision of the Rowwad Translation Center. The original translation is available for the purpose of expressing opinion, evaluation, and continuous development.",
+    "file": "urdu_junagarhi",
+    "database_url": "https://quranenc.com/downloads/sqlite/urdu_junagarhi.zip",
+    "database_uncompressed_url": "https://quranenc.com/downloads/sqlite/urdu_junagarhi.sqlite",
+    "pdf_url": null,
+    "pdf_size": null,
+    "pdf_cover": null,
+    "pdf_pure_url": null,
+    "pdf_pure_size": null,
+    "pdf_pure_cover": null,
+    "pdf_mobile_url": null,
+    "pdf_mobile_size": null,
+    "pdf_mobile_cover": null,
+    "epub_url": null,
+    "epub_size": null
+  },
+  "retrieved": "2026-10-08",
+  "contentModified": false,
+  "files": [
+    {
+      "file": "001.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/1",
+      "bytes": 57411,
+      "sha256": "5524bbfdf7b33a8dbc0e5a81be5bb37216b7393b181aed9413fb852e9f9bfe76"
+    },
+    {
+      "file": "002.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/2",
+      "bytes": 1521103,
+      "sha256": "7fad292df81669fd8bb61220dba5de8fe40c0abde987eb133ce8a556ba60c9a2"
+    },
+    {
+      "file": "003.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/3",
+      "bytes": 916216,
+      "sha256": "b04775e259800f0558f928845ae33239067877c2b83109d87c427126fc9a3d53"
+    },
+    {
+      "file": "004.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/4",
+      "bytes": 994438,
+      "sha256": "b95136dba329c1e4ea655d67efd1e0fb2e98f31acbc710ea9f8f7695dd9ec66e"
+    },
+    {
+      "file": "005.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/5",
+      "bytes": 741228,
+      "sha256": "0f4cb0422c0c9d6be1eb3c329d8efb6fcd26d5e09bb8da613d63e1445eac794d"
+    },
+    {
+      "file": "006.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/6",
+      "bytes": 778843,
+      "sha256": "bf212e1c27b04a9569868e9a4e1681ca7ffdb8b149b7e6c48ab37337ba2549e2"
+    },
+    {
+      "file": "007.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/7",
+      "bytes": 844671,
+      "sha256": "818c8fdf8b4be03cba9d56d642580301e7d0a4d479e0fa9cb054856a44e8d51a"
+    },
+    {
+      "file": "008.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/8",
+      "bytes": 322717,
+      "sha256": "95fb0d35da6bbf7bfef59b635ce14cc25fb0d91318ea70d75cf57b95225391e3"
+    },
+    {
+      "file": "009.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/9",
+      "bytes": 682306,
+      "sha256": "b4e483fa52c9765dd6cd24280ee8e4bf289eedf3637a8f72797ba561e9d499f1"
+    },
+    {
+      "file": "010.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/10",
+      "bytes": 436782,
+      "sha256": "4c9143bea0572c5752c496fe493578df4da6e5fa01891e4b411a875a098b42b0"
+    },
+    {
+      "file": "011.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/11",
+      "bytes": 474492,
+      "sha256": "71512a5bed5e4d2f15af8117bb7275d3f9cb7f49bfaab62607a4276c5a5e4690"
+    },
+    {
+      "file": "012.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/12",
+      "bytes": 429941,
+      "sha256": "824948b72c30000e61e57900adff597f390b4ed92adbce91688fd8404a94288c"
+    },
+    {
+      "file": "013.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/13",
+      "bytes": 208494,
+      "sha256": "97e06d7ae8ab8bd38a19cf4baa79e95d4db41ea06a23d582982cad2232683fad"
+    },
+    {
+      "file": "014.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/14",
+      "bytes": 204614,
+      "sha256": "e979d12f6694d5a8718b9fe6b03ad5b5de5387f8bfe1edd201cde70ce19ff9b0"
+    },
+    {
+      "file": "015.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/15",
+      "bytes": 172281,
+      "sha256": "e9bb641a9787858fe5309df1026dc6abf836dffa851e7d07c4c305f84aaeb1df"
+    },
+    {
+      "file": "016.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/16",
+      "bytes": 448524,
+      "sha256": "3ef8771dc5c6c0bf7ea2cf1ee6cd0c37b47702ad131efc297fcfb02a685323f8"
+    },
+    {
+      "file": "017.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/17",
+      "bytes": 391193,
+      "sha256": "80329d23e3ea25b8821b69108d81da30ace6dcd1b0d7c4abf8b9ea8946d8f233"
+    },
+    {
+      "file": "018.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/18",
+      "bytes": 379571,
+      "sha256": "b3492ffde285d75484988fdeaf9d320b91f104e9b5472ef87bb96eee0a54d68c"
+    },
+    {
+      "file": "019.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/19",
+      "bytes": 232000,
+      "sha256": "987805cbe088d378727217888b879f3a1c378829b5966b515853c327abf77fc3"
+    },
+    {
+      "file": "020.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/20",
+      "bytes": 329384,
+      "sha256": "1367ef2f2fa9543182aacb2f0898cfd207415bbd14edce7fc48c3145444afaf4"
+    },
+    {
+      "file": "021.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/21",
+      "bytes": 310645,
+      "sha256": "df4e559f5c1e5c8274fc29c5bf044aaed672027e9ccfb5a106e7e37323d887d5"
+    },
+    {
+      "file": "022.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/22",
+      "bytes": 336552,
+      "sha256": "f018c742ee4afcf807eb78c88231c1252a1b73434595302e75705303df21c13d"
+    },
+    {
+      "file": "023.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/23",
+      "bytes": 256703,
+      "sha256": "3193c3c81d4557ff3c9d690c21928c282fd84a9782f190f627ce9387f43758e6"
+    },
+    {
+      "file": "024.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/24",
+      "bytes": 363342,
+      "sha256": "d98ba874fc55cda2cd0c5d2a321ba48f3d96dd006a4e5154835aab5bc1773fd4"
+    },
+    {
+      "file": "025.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/25",
+      "bytes": 231971,
+      "sha256": "6fef716cda489a984b471f723ae95cae293cfb8f28d1b80161bcd480549d46f9"
+    },
+    {
+      "file": "026.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/26",
+      "bytes": 337235,
+      "sha256": "3f005191eed14d3a201d46906bed914c1ffff064b426e748e54be4b0a5f264cd"
+    },
+    {
+      "file": "027.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/27",
+      "bytes": 269677,
+      "sha256": "ff82144f820b581a906d96efd8672b4dc7670b7a663bced16cf1c0443afce095"
+    },
+    {
+      "file": "028.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/28",
+      "bytes": 345846,
+      "sha256": "d5e898e59604e09cbed8ec5e24c3feffe4e6ec1ca3b86dede606ce4d59221e2c"
+    },
+    {
+      "file": "029.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/29",
+      "bytes": 273793,
+      "sha256": "6ee4d42f4ca45aabcbb20b36f7bdcd0994e0b5d89ce0b0de423ab1235db5d17f"
+    },
+    {
+      "file": "030.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/30",
+      "bytes": 208703,
+      "sha256": "d9086272fbdd1203841e9f51e072cd01c5bb12e12c121b7f1bcae8b1b9b46616"
+    },
+    {
+      "file": "031.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/31",
+      "bytes": 144251,
+      "sha256": "19f00889e2f53573a35fa330b89b8cd54beae1312680b9ec63e121a99f9403e0"
+    },
+    {
+      "file": "032.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/32",
+      "bytes": 89816,
+      "sha256": "efa501181c105344ee30d68c6417e5fdf0e241d0097024278c58e83f80c14614"
+    },
+    {
+      "file": "033.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/33",
+      "bytes": 395155,
+      "sha256": "19e1c8a31888fee10f555b97863aba8fcb2217f90f7a96723e464e6cb5e4d956"
+    },
+    {
+      "file": "034.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/34",
+      "bytes": 223925,
+      "sha256": "3cf9b03d828881d99086a1fd6f38b6b3f9b14fff9fa327841e8fe1347f05a44f"
+    },
+    {
+      "file": "035.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/35",
+      "bytes": 183750,
+      "sha256": "dab5308743039539621f15cc20e1d9f4a3b7d46916ad0c1b9216f3f973a3cad9"
+    },
+    {
+      "file": "036.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/36",
+      "bytes": 188650,
+      "sha256": "f08f2d485a54d5370967b4a8d50d0f6f2c7799af270c84c6505847abfa7ae8f2"
+    },
+    {
+      "file": "037.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/37",
+      "bytes": 236805,
+      "sha256": "ee8c0532cfa0751a1f69cd6163d70451131d8f0836983f6bff72d8d960f3dc2a"
+    },
+    {
+      "file": "038.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/38",
+      "bytes": 197638,
+      "sha256": "1e3d581f138694c329652821d14c7d56998467100e122a19764acaa721841699"
+    },
+    {
+      "file": "039.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/39",
+      "bytes": 281180,
+      "sha256": "70d7d9dc6eac8fedf486e8fb3d9c452c5fd25b73ed3775e2822a208a59914742"
+    },
+    {
+      "file": "040.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/40",
+      "bytes": 300458,
+      "sha256": "87729db90c22475e0a2ef21c936c90557c1bb7a67048c33b9b3ada15aa4af3f6"
+    },
+    {
+      "file": "041.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/41",
+      "bytes": 194942,
+      "sha256": "4fad4f0c4cb5bd18df622e197d31df9307243cda50cd976d128c7e670c8b1dda"
+    },
+    {
+      "file": "042.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/42",
+      "bytes": 205959,
+      "sha256": "739ee0eeb674515b71601d796054f0c9ca66ee6e48967d99f57c910cb37b38b7"
+    },
+    {
+      "file": "043.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/43",
+      "bytes": 214530,
+      "sha256": "545b05ad1ba3b064c24615f89780d16ddda11ecf789cbfe8ff590dcc3c255f53"
+    },
+    {
+      "file": "044.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/44",
+      "bytes": 97508,
+      "sha256": "dfe09908273b3c23ca05499e11968c3bc4af98e689853c81f4e2133b683c62b6"
+    },
+    {
+      "file": "045.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/45",
+      "bytes": 108530,
+      "sha256": "20b5d395bec52edb3d188474ea1273b0a7946ec1f4e333babab2994267f3d394"
+    },
+    {
+      "file": "046.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/46",
+      "bytes": 157102,
+      "sha256": "db166b7d5bf3ae944cbba6c788db0985554d2f04136d31df41a0302af71ca0fa"
+    },
+    {
+      "file": "047.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/47",
+      "bytes": 148866,
+      "sha256": "9bccab7255d75ebd6e06376a33c533a72d0f4a14a9abcc200d00e5597b82e81f"
+    },
+    {
+      "file": "048.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/48",
+      "bytes": 150305,
+      "sha256": "a25f188b1dc04c86327d26ce7d66766de4e8ae1f9bf6d465cbfe6581fefc4096"
+    },
+    {
+      "file": "049.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/49",
+      "bytes": 89826,
+      "sha256": "8a0e574a70612b135c916d4b8502746d101e67e8e0aa72dad49bb1d2d1a9081c"
+    },
+    {
+      "file": "050.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/50",
+      "bytes": 98412,
+      "sha256": "b8216acc26c0cccfe4b09f7cc70b9bf1a1eddf2ae34fbd3415f34ceb32aad9cc"
+    },
+    {
+      "file": "051.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/51",
+      "bytes": 95279,
+      "sha256": "ca0a0c478ac7a3ea92a36ac36c646859d23eb2c7dec70aedb0d9764291730afe"
+    },
+    {
+      "file": "052.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/52",
+      "bytes": 87849,
+      "sha256": "38761d6f4a1e1553360086ddfeb1210afa590e18fb9a31aa9d91ccb928ac9407"
+    },
+    {
+      "file": "053.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/53",
+      "bytes": 103603,
+      "sha256": "7750f66c459c02146b94eee6e41542f58a56dca5b88ecfa672b83baca0bd0663"
+    },
+    {
+      "file": "054.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/54",
+      "bytes": 95258,
+      "sha256": "eec2c083d4a2d0da1c78c60862a9c330a78f64e9b4e135bee20e8f15fc63e01e"
+    },
+    {
+      "file": "055.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/55",
+      "bytes": 110609,
+      "sha256": "b2a82e6c461003afb9d506bda43ff45fee318afdbd613136609e1a5de0f428be"
+    },
+    {
+      "file": "056.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/56",
+      "bytes": 112043,
+      "sha256": "e8487f710f6fef5f88a3aeb1a40b207dd3754c36dbbd290d7d80f851049b8fe5"
+    },
+    {
+      "file": "057.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/57",
+      "bytes": 141899,
+      "sha256": "19a882b96188e9c77be812844eb022e50fdadbb99eb01ba9aec782d7a4e1a5a9"
+    },
+    {
+      "file": "058.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/58",
+      "bytes": 122085,
+      "sha256": "755ebf1a7eee4eeeb8f4357727f312fd9cef70b2b4ca5d0743f1b5c335673373"
+    },
+    {
+      "file": "059.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/59",
+      "bytes": 114583,
+      "sha256": "48c41a243e9d1fa1b60c870db9f69dd91c943bb4627be36eff398721aa64b8ad"
+    },
+    {
+      "file": "060.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/60",
+      "bytes": 98973,
+      "sha256": "8d3256ec36af6b60aaebc67efcabd621bb393dd6aecaabb93589be6cc0c49267"
+    },
+    {
+      "file": "061.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/61",
+      "bytes": 56167,
+      "sha256": "f246862dac3992257cbfc2b9893534fee05ec61d04a2051198139a4a315b80a8"
+    },
+    {
+      "file": "062.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/62",
+      "bytes": 44166,
+      "sha256": "4fa44d538658938cbdac7ba773d023b996d2543f61fdb8d62ea51b2b03dd989f"
+    },
+    {
+      "file": "063.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/63",
+      "bytes": 42358,
+      "sha256": "58955b4594d9d3fa1b9345b7e5036a32d5973ba2cc46ec801b070c7647aca897"
+    },
+    {
+      "file": "064.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/64",
+      "bytes": 66270,
+      "sha256": "04f41fa3bb45697d9d080cf69e117790f76fbbc525b351ccefc9a476b9fd8392"
+    },
+    {
+      "file": "065.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/65",
+      "bytes": 78860,
+      "sha256": "90f3268c8659a4837526b4321b93e9ea74e709a2fb60d454c22dafb4110858b2"
+    },
+    {
+      "file": "066.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/66",
+      "bytes": 67105,
+      "sha256": "0ec779a49616d3fea3e71a76b49313ef08c25dc17df041983ebe2790f6ff4949"
+    },
+    {
+      "file": "067.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/67",
+      "bytes": 71877,
+      "sha256": "3c058efdb5da71bc911688aba6f97aeea3cf6f01ac40c6bb380852ca0795dd3a"
+    },
+    {
+      "file": "068.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/68",
+      "bytes": 81768,
+      "sha256": "d2e7ab5aff59f49eed3f6e9bbcec85432c01ff723ca275533857c459027a7171"
+    },
+    {
+      "file": "069.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/69",
+      "bytes": 66398,
+      "sha256": "82ce456bf1a912c5a5ecdbd2a874c85ac4fa93ea5bfa5000a35a8f1fd73a46c6"
+    },
+    {
+      "file": "070.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/70",
+      "bytes": 58072,
+      "sha256": "4615acf0247200866c87fc0cbf29162a2b866fdee8c2ac10ad5af11843092369"
+    },
+    {
+      "file": "071.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/71",
+      "bytes": 60270,
+      "sha256": "91975b574fce8bfcb2427d4df3970770430f03b8d5e1c98a409103115eacde2b"
+    },
+    {
+      "file": "072.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/72",
+      "bytes": 72518,
+      "sha256": "6947ff7e6af804d71dd05c0576053612c06930fe6ad3adf9075e163da798b9e4"
+    },
+    {
+      "file": "073.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/73",
+      "bytes": 56588,
+      "sha256": "bb1f9fa21969ae39848e0e28e7a171b610ec0bcd6d2cd2427fc5b0624888e4ee"
+    },
+    {
+      "file": "074.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/74",
+      "bytes": 60513,
+      "sha256": "a352a0f28cb2411b7be0cc31558159aadf5751222f94b5a34740603a38694566"
+    },
+    {
+      "file": "075.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/75",
+      "bytes": 44391,
+      "sha256": "191f827941d6f2f81c0a8f191dee7c630e9c198d33992c01bdb1d2701205db4e"
+    },
+    {
+      "file": "076.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/76",
+      "bytes": 65781,
+      "sha256": "22a1391cf7017ec7aae8864e5e3f8c9e8f4708ca08305a3f2be8466f1469de1f"
+    },
+    {
+      "file": "077.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/77",
+      "bytes": 54081,
+      "sha256": "d129b3d98cec361c6ace4a7e28119511a2c1bdc387c71d44a152a23303a15cec"
+    },
+    {
+      "file": "078.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/78",
+      "bytes": 56972,
+      "sha256": "898e9317e388cd2cd8af5433fa57ab91aa7f514e0d5546bcc214bfdf55ba986d"
+    },
+    {
+      "file": "079.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/79",
+      "bytes": 56590,
+      "sha256": "dde77ba22bb547fd978238aaf850dbc9010be9c15546e991a5896de688ba2607"
+    },
+    {
+      "file": "080.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/80",
+      "bytes": 40256,
+      "sha256": "a8f9a1dd9b32e4c7dd0d19a5f418d1e9b3ee8f61a98a7de40f73061e8d9a35df"
+    },
+    {
+      "file": "081.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/81",
+      "bytes": 30103,
+      "sha256": "1ae6e05509816686399eefc9f29f708e5948b7178877cf327870a2f5a7710b6e"
+    },
+    {
+      "file": "082.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/82",
+      "bytes": 28515,
+      "sha256": "2121915b910c676a55e630b9a12f0759b70c69c251214cafa47598d6c644e5a5"
+    },
+    {
+      "file": "083.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/83",
+      "bytes": 47596,
+      "sha256": "83c88d78e73884c97204dee4234809dca49bf194b72aac3ccdebab16cbf040c7"
+    },
+    {
+      "file": "084.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/84",
+      "bytes": 31127,
+      "sha256": "71508b22fd402b5aaf99510b609c116170178e17468ee37541dc875a889997bd"
+    },
+    {
+      "file": "085.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/85",
+      "bytes": 38194,
+      "sha256": "8a117b11801e2b01baed41f7b54148e3a4a523269f69893d35599c050aeaad08"
+    },
+    {
+      "file": "086.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/86",
+      "bytes": 22855,
+      "sha256": "86922b763c88459cb96ba3476d00641757188a6a3c0cd32bb1fe12fa7c032fa5"
+    },
+    {
+      "file": "087.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/87",
+      "bytes": 23032,
+      "sha256": "b4db6658e3d9cd1f857312cb4049469e5da4c350c8fe94b9345967b78486c87e"
+    },
+    {
+      "file": "088.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/88",
+      "bytes": 27373,
+      "sha256": "33bba38073222adbb8f000da11eedaa1fbffb430f91bc733a76fcd22f07d5df0"
+    },
+    {
+      "file": "089.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/89",
+      "bytes": 43999,
+      "sha256": "1b9b52d8053a3e499df7abfac3fe570219b47c2a41f09a8cb55071ef4c57b26e"
+    },
+    {
+      "file": "090.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/90",
+      "bytes": 28197,
+      "sha256": "a20096ffdd84e9b6889def17474bbe01af06a5acc4e7fbf07ac914ff70a9fede"
+    },
+    {
+      "file": "091.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/91",
+      "bytes": 19649,
+      "sha256": "5b0d829ddf6dbb28ec8b5815513e8bc86791e0a072b76a4ba4ca287cffdbdb1b"
+    },
+    {
+      "file": "092.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/92",
+      "bytes": 27425,
+      "sha256": "b27eb12a266d8a6b29cf0af0663bd6629621a85c1990b5157a88752bdecb9cd8"
+    },
+    {
+      "file": "093.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/93",
+      "bytes": 12560,
+      "sha256": "7928a20422c127fa5be1516e9ac95c0eb387a745c5b8c1b95990831507a6ac1f"
+    },
+    {
+      "file": "094.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/94",
+      "bytes": 16934,
+      "sha256": "c79ce7ee855738835410cd8466cb1ee2ccafd95d9d4e8fe875b1a06cc4fbefeb"
+    },
+    {
+      "file": "095.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/95",
+      "bytes": 16517,
+      "sha256": "51b3529fc66927dc525ace5132c5da74632977997b4fc53e740b45277f6aeed0"
+    },
+    {
+      "file": "096.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/96",
+      "bytes": 28509,
+      "sha256": "5286da990f16aef59495e6dd5f7aa7b225b6614d574e1f3549365c6c65713f1b"
+    },
+    {
+      "file": "097.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/97",
+      "bytes": 9234,
+      "sha256": "63634c87f2acb9346d931f0b769713a00982e6c24d9ed9d8fbdafc28869dcff4"
+    },
+    {
+      "file": "098.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/98",
+      "bytes": 23675,
+      "sha256": "fd3552038f6a649dd88005699ea21cbd69f0c13bac799e0dddb21ab21cfe7ce1"
+    },
+    {
+      "file": "099.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/99",
+      "bytes": 15694,
+      "sha256": "fd2f8911c69d5e32da2af36a2d25f8aa1549c797f750254fe453ae2c183d6229"
+    },
+    {
+      "file": "100.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/100",
+      "bytes": 16595,
+      "sha256": "069f9e8c9392da35d3c3f7eb2d6462d73449cfd2d533174338872683319ccb4f"
+    },
+    {
+      "file": "101.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/101",
+      "bytes": 17113,
+      "sha256": "7666a1bc6fa7937813a5e5d63d451a115e448e2f9de0a2f3c141e949303b4f62"
+    },
+    {
+      "file": "102.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/102",
+      "bytes": 10399,
+      "sha256": "fb26d5e6ef51784db353eba317942babbfc9e6b0d22b1da1e720157381ef4c1b"
+    },
+    {
+      "file": "103.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/103",
+      "bytes": 8118,
+      "sha256": "ccd4f3229f74f335275f25fea7681be89a59064a5f45eee9a5000c0f5968a054"
+    },
+    {
+      "file": "104.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/104",
+      "bytes": 11956,
+      "sha256": "4b08ea3b71199c32406038f27ef15b8eb35f60b3e100d46aab91a56bab4237e9"
+    },
+    {
+      "file": "105.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/105",
+      "bytes": 12806,
+      "sha256": "9bf9043fe0474476a6c500d4e1187afacf25edd71581903abfdf472f52c332b1"
+    },
+    {
+      "file": "106.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/106",
+      "bytes": 7572,
+      "sha256": "df055609018ba2e0033a3f0e66db3e9111c5b1171b6a80949f118e944d6fee86"
+    },
+    {
+      "file": "107.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/107",
+      "bytes": 12509,
+      "sha256": "e25df1f47d30b86ee8440a856523970110550929781488953acc9055dd29ed8e"
+    },
+    {
+      "file": "108.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/108",
+      "bytes": 10672,
+      "sha256": "6061e311491ff3f0a8ea33bd3b0920c8fe7ba9735d7144c256dd14ce907391d9"
+    },
+    {
+      "file": "109.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/109",
+      "bytes": 8473,
+      "sha256": "e6c5812bbb00a815f28cdebd118459d9f5fb463572d86eaf658e90751b25d3d6"
+    },
+    {
+      "file": "110.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/110",
+      "bytes": 6237,
+      "sha256": "1ffa72de4af79e8a64c06615def161749a07f518a7d216f8c42db33c35bb734c"
+    },
+    {
+      "file": "111.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/111",
+      "bytes": 10904,
+      "sha256": "a87bc4cf1351c8dd6a0b654c646bf70643e3324952ba9e16412874148baabaa7"
+    },
+    {
+      "file": "112.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/112",
+      "bytes": 4659,
+      "sha256": "ac09a45d2ced2a4925b823c5544e10174acd842f5f68c9276e92fc4e1056c209"
+    },
+    {
+      "file": "113.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/113",
+      "bytes": 8950,
+      "sha256": "77acdadc6519a32c5b105b27917507937f2c4de532dade5fb5d6354a0783e343"
+    },
+    {
+      "file": "114.json",
+      "sourceURL": "https://quranenc.com/api/v1/translation/sura/urdu_junagarhi/114",
+      "bytes": 16351,
+      "sha256": "507062251c7096cc7f0e7d1e1ad28ffce73ac9c7babd8d7b2743c2f9f90607ea"
+    }
+  ]
+}
