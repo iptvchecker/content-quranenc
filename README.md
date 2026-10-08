@@ -15,3 +15,10 @@ Preserve content without additions, deletions or modifications. Credit the publi
 Fetch updates into a separate review branch or candidate snapshot. Compare publisher versions, available dates/HTTP validators and byte checksums. Review content, attribution and conditions before publishing a new release. Never automatically delete our mirrored files because upstream removes them. Keep historical immutable releases and app-pinned revisions. Any removal requires a deliberate maintainer decision; publisher obligations remain in force.
 
 The six translation archives are kept distinct. No proprietary app source, credentials or user data is included. The app's sources and download formats are unchanged; mirror integration is separate work.
+
+## Original chapter API responses
+
+The `api/RESOURCE/VERSION/2026-10-08/` folders retain all 114 unchanged
+chapter responses per selected translation, with individual source URLs and
+hashes in each SOURCE.json. These are separate from the original publisher
+SQLite ZIPs above. No conversion or content editing was performed.
