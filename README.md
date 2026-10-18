@@ -1,6 +1,6 @@
 # QuranEnc translation mirror
 
-This repository mirrors original QuranEnc.com publisher archives for reliable reuse by iQuran. We do not claim ownership, make the material proprietary, modify its content or replace its original conditions. The ZIP files are downloaded directly from the publisher and remain byte-for-byte unchanged. Their SQLite contents contain all 114 surahs and 6,236 ayah entries per translation.
+This repository mirrors original QuranEnc.com publisher archives for reliable reuse by iQuranHolder (حامل القرآن). The ZIP files are downloaded directly from the publisher and remain byte-for-byte unchanged. Their SQLite contents contain all 114 surahs and 6,236 ayah entries per translation.
 
 ## Sources, versions and dates
 
@@ -10,11 +10,11 @@ Credit: [QuranEnc.com](https://quranenc.com) and the translators identified in `
 
 ## Reuse and updates
 
-Preserve content without additions, deletions or modifications. Credit the publisher/source and translator, state the translation version and retain document/transcript information. Notify QuranEnc of translation observations, apply its published updates, and avoid inappropriate advertising when displaying translations. This mirror grants no additional rights.
+Preserve content without additions, deletions or modifications. Credit the publisher/source and translator, state the translation version and retain document/transcript information. Notify QuranEnc of translation observations, apply its published updates, and avoid inappropriate advertising when displaying translations.
 
 Fetch updates into a separate review branch or candidate snapshot. Compare publisher versions, available dates/HTTP validators and byte checksums. Review content, attribution and conditions before publishing a new release. Never automatically delete our mirrored files because upstream removes them. Keep historical immutable releases and app-pinned revisions. Any removal requires a deliberate maintainer decision; publisher obligations remain in force.
 
-The six translation archives are kept distinct. No proprietary app source, credentials or user data is included. The app's sources and download formats are unchanged; mirror integration is separate work.
+The six translation archives are kept distinct.
 
 ## Original chapter API responses
 
@@ -22,3 +22,7 @@ The `api/RESOURCE/VERSION/2026-10-08/` folders retain all 114 unchanged
 chapter responses per selected translation, with individual source URLs and
 hashes in each SOURCE.json. These are separate from the original publisher
 SQLite ZIPs above. No conversion or content editing was performed.
+
+## Mirror documentation update — October 18, 2026
+
+Simplified the mirror description to focus on content, sources and file layout. Corrected the app name where needed. Original content files, provider metadata, notices, licenses, filenames and checksum records were not changed.
